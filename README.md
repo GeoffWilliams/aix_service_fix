@@ -42,6 +42,7 @@ The presence of fact `pup_7179` on any system indicates that this fix is present
 * Supports AIX only
 * Not supported by Puppet, Inc.
 * Must be disabled during any upgrade to Puppet
+* Applies to PE 2016.4.2 LTR
 
 ## Development
 
